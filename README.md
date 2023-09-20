@@ -1,28 +1,22 @@
 
 
 <h1 align='center'>
-  Hi there 👋 I'm Alexandre 👨‍💻
+  Hi there 👋 I'm Mateusz 👨‍💻
 </h1>
 
 <p align='center'>
-  A mobile and .net developer from Brazil.
+  A begineer C# and WinForms dev from Poland
 </p>
 
 
 
 <p align='center'>
   
-  <a href="https://www.linkedin.com/in/alexandresanlim/">
-    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>&nbsp;&nbsp;
-  <a href="https://instagram.com/alexandresanlim">
-    <img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" />        
-  </a>&nbsp;&nbsp;
   
 </p>
 
 <p align='center'>
-  <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=alexandresanlim&show_icons=true&count_private=true&theme=dark" width="350"></a>
+  <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=boleklolo&show_icons=true&count_private=true&theme=dark" width="350"></a>
 </p>
 
 <p align='center'>
