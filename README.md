@@ -5,7 +5,7 @@
 </h1>
 
 <p align='center'>
-  A begineer C# and WinForms dev from Poland
+  A beginner C# programmer from Poland
 </p>
 
 
