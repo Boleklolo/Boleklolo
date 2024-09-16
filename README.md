@@ -1,11 +1,11 @@
 
 
 <h1 align='center'>
-  Hi there 👋 I'm Mateusz 👨‍💻
+  Welcome to my profile.
 </h1>
 
 <p align='center'>
-  A beginner C# programmer from Poland
+  
 </p>
 
 
