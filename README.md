@@ -1,7 +1,7 @@
 
 
 <h1 align='center'>
-  Welcome to my profile.
+  Welcome to my profile
 </h1>
 
 <p align='center'>
@@ -15,9 +15,6 @@
   
 </p>
 
-<p align='center'>
-  <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=boleklolo&show_icons=true&count_private=true&theme=dark" width="350"></a>
-</p>
 
 <p align='center'>
   💻 My workspace<br/><br/>
@@ -27,17 +24,12 @@
   <img src="https://img.shields.io/badge/nvidia-rtx%205060-%2376B900.svg?&style=for-the-badge&logo=nvidia&logoColor=white" />
 </p>
 
-<p align='center'>
-  Do you like my open source projects? <a href='https://stars.github.com/nominate/'>Nominate me to Github Stars ⭐</a>
-</p>
+
 
 <!-- <details align='center'>
   <summary>:zap: My workspace specs</summary>
 </details>-->
 
-<p align='center'>
-  📫 How to reach me: <a href='mailto:mateuszmaz1986@gmail.com'>mateuszmaz1986@gmail.com</a>
-</p>
 
 
 <p align='center'>
