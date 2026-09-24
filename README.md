@@ -1,7 +1,7 @@
 
 
 <h1 align='center'>
-  Welcome to my profile
+  Welcome, welcome to City 17
 </h1>
 
 <p align='center'>
@@ -17,7 +17,7 @@
 
 
 <p align='center'>
-  💻 My workspace<br/><br/>
+  Workspace<br/><br/>
   <img src="https://img.shields.io/badge/windows-%230078D6.svg?&style=for-the-badge&logo=windows&logoColor=white" />
   <img src="https://img.shields.io/badge/CPU-Ryzen%205%205600-%230071C5.svg?&style=for-the-badge&logo=AMD&logoColor=white" />
   <img src="https://img.shields.io/badge/RAM-32GB-%230071C5.svg?&style=for-the-badge&logoColor=white" />
